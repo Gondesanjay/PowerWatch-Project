@@ -68,7 +68,7 @@ Berikut adalah alur penggunaan aplikasi sesuai flowchart sistem:
 * **Aisah Khoirunnisa** (SI 11-0110124066)
 * **Ikmal Rizal** (SI 11-0110124148)
 * **Imtiyaz Mufidah** (SI 11-0110124086)
-* **Avra Najwa** (SI 11-0110124096)
+* **Aura Najwa** (SI 11-0110124096)
 
 ---
 *Dibuat dengan ❤️ menggunakan Python dan Streamlit.*
