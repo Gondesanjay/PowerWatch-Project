@@ -27,7 +27,7 @@ Aplikasi ini dibangun menggunakan bahasa pemrograman **Python** dengan library b
 1.  **Clone Repository**
     ```bash
     git clone [https://github.com/USERNAME_KAMU/NAMA_REPO.git](https://github.com/USERNAME_KAMU/NAMA_REPO.git)
-    cd monitor_listrik4
+    cd Project_PowerWatch_DDP
     ```
 
 2.  **Buat Virtual Environment (Opsional tapi disarankan)**
